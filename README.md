@@ -66,3 +66,30 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+### till module 3
+installations
+    Node : to run development environment
+    VSCode : as a editor
+    Prettier : for code formatting
+    React Router : for routing 
+    Flux : state management
+    Bootstarp : for styling 
+
+use mock api : using JSON server for api
+npm install -D cross-env@5.2.0 npm-run-all@4.1.5 json-server@0.15.0
+
+
+### for module 4
+
+React Fragment
+Entry point for react DOM
+made function component and class component
+Setup simple routing
+
+### for module 5
+
+
+
